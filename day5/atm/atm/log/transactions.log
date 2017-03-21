@@ -1,0 +1,5 @@
+2017-02-23 22:49:14,615 - transaction - INFO - account:123   action:repay    amount:1000.0   interest:0.0
+2017-02-23 22:49:24,391 - transaction - INFO - account:123   action:withdraw    amount:2000.0   interest:100.0
+2017-02-23 22:49:51,815 - transaction - INFO - account:123   action:transfer    amount:1000.0   interest:50.0
+2017-02-23 22:49:51,817 - transaction - INFO - account:1234   action:repay    amount:1000.0   interest:0.0
+2017-02-23 22:50:43,152 - transaction - INFO - account:123   action:consume    amount:3725.0   interest:0.0
